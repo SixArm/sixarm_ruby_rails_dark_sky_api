@@ -4,7 +4,7 @@
 
 [![Gem Version](https://badge.fury.io/rb/sixarm_ruby_rails_dark_sky_api.svg)](http://badge.fury.io/rb/sixarm_ruby_rails_dark_sky_api)
 [![Build Status](https://travis-ci.org/SixArm/sixarm_ruby_rails_dark_sky_api.png)](https://travis-ci.org/SixArm/sixarm_ruby_rails_dark_sky_api)
-[![Code Climate](https://api.codeclimate.com/v1/badges/162f0f19afdb800182e0/maintainability)](https://codeclimate.com/github/SixArm/sixarm_ruby_rails_dark_sky_api/maintainability)
+[![Code Climate](https://api.codeclimate.com/v1/badges/00d13ddd249be9baaaaa/maintainability)](https://codeclimate.com/github/SixArm/sixarm_ruby_rails_dark_sky_api/maintainability)
 
 * Git: <https://github.com/SixArm/sixarm_ruby_rails_dark_sky_api>
 * Doc: <http://sixarm.com/sixarm_ruby_rails_dark_sky_api/doc>
