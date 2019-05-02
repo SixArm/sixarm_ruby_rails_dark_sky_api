@@ -5,7 +5,7 @@ Gem::Specification.new do |s|
   s.name           = "sixarm_ruby_rails_dark_sky_api"
   s.summary        = "SixArm.com → Ruby → Rails → Dark Sky API"
   s.description    = "Dark Sky API gem to get weather forecasts"
-  s.version        = "1.0.0"
+  s.version        = "1.1.0"
 
   s.author         = "SixArm"
   s.email          = "sixarm@sixarm.com"

@@ -88,4 +88,14 @@ describe DarkSky::API do
 
   end
 
+  describe ".icon_keys" do
+
+    it "return a list of valid Dark Sky icon keys, such as 'clear-day', 'partly-cloudy-day', etc." do
+      act = DarkSky::API::icon_keys
+      expect(act).must_respond_to :each
+      expect(act).must_include "clear-day"
+    end
+
+  end
+
 end
