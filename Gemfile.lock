@@ -1,0 +1,57 @@
+PATH
+  remote: .
+  specs:
+    sixarm_ruby_rails_dark_sky_api (1.1.0)
+      faraday (>= 0.15.4, < 2)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    docile (1.4.0)
+    faraday (1.10.3)
+      faraday-em_http (~> 1.0)
+      faraday-em_synchrony (~> 1.0)
+      faraday-excon (~> 1.1)
+      faraday-httpclient (~> 1.0)
+      faraday-multipart (~> 1.0)
+      faraday-net_http (~> 1.0)
+      faraday-net_http_persistent (~> 1.0)
+      faraday-patron (~> 1.0)
+      faraday-rack (~> 1.0)
+      faraday-retry (~> 1.0)
+      ruby2_keywords (>= 0.0.4)
+    faraday-em_http (1.0.0)
+    faraday-em_synchrony (1.0.0)
+    faraday-excon (1.1.0)
+    faraday-httpclient (1.0.1)
+    faraday-multipart (1.0.4)
+      multipart-post (~> 2)
+    faraday-net_http (1.0.1)
+    faraday-net_http_persistent (1.2.0)
+    faraday-patron (1.0.0)
+    faraday-rack (1.0.0)
+    faraday-retry (1.0.3)
+    minitest (5.18.0)
+    multipart-post (2.3.0)
+    rake (12.3.3)
+    ruby2_keywords (0.0.5)
+    simplecov (0.22.0)
+      docile (~> 1.1)
+      simplecov-html (~> 0.11)
+      simplecov_json_formatter (~> 0.1)
+    simplecov-html (0.12.3)
+    simplecov_json_formatter (0.1.4)
+    sixarm_ruby_minitest_extensions (1.1.1)
+
+PLATFORMS
+  arm64-darwin-22
+
+DEPENDENCIES
+  minitest (>= 5.11.1, < 6)
+  rake (>= 12.3.0, < 13)
+  simplecov (>= 0.14.1, < 2)
+  sixarm_ruby_minitest_extensions (>= 1.0.8, < 2)
+  sixarm_ruby_rails_dark_sky_api!
+
+BUNDLED WITH
+   2.3.26
